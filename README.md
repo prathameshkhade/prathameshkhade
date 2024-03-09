@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    I am a Cyber Security Ethusiast.
+    I am a Cyber Security Enthusiast.
 </h3>
 
 <br/>
