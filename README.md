@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prathameshkhade.prathameshkhade" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Friend!+👋;+I'm+Prathamesh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hii+There!+👋;+I'm+Prathamesh;" />
 </h1>
 
 <h3 align="center">
@@ -18,7 +18,7 @@
 
 💬 Ask me about **WiFi Hacking, OOP concepts, Python... or anything [here](https://github.com/prathameshkhade/prathameshkhade/issues)**
 
-⚡ Fun fact **No fun fact is my fun fact. I find joy in the simple absence of trivia!**
+⚡ Fun fact **I think I am funny**
 
  </div>
  
@@ -46,7 +46,7 @@
 
 
 <!--
-**prathameshkhade/prathameshkhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**prathameshkhade/prathameshkhade** is a ✨ _special_ ✨ repository because its `README.
 
 Here are some ideas to get you started:
 
